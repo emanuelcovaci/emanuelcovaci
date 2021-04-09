@@ -30,11 +30,11 @@ Please email me!
 
 
 ![Emanuel Covaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelcovaci&&theme=buefy&count_private=true)
-# Detecting Fake Accounts on Social Media  (My bachelor thesis)
+# :mortar_board:  Detecting Fake Accounts on Social Media  (My bachelor thesis)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanuelcovaci&repo=twittop)](https://github.com/emanuelcovaci/twittop)
 
-# NASA International Space Apps Challenge
+# :rocket: NASA International Space Apps Challenge
 
 ## Local People's Choice Winner and Nominations for Global Awards 2018
 NASA-Challange-Mother-Bear (https://github.com/NASA-Challange-Mother-Bear/)
