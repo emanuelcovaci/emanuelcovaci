@@ -37,7 +37,7 @@ Please email me!
 # NASA International Space Apps Challenge
 
 ## Local People's Choice Winner and Nominations for Global Awards 2018
-[NASA-Challange-Mother-Bear] (https://github.com/NASA-Challange-Mother-Bear/)
+NASA-Challange-Mother-Bear (https://github.com/NASA-Challange-Mother-Bear/)
 
 https://2018.spaceappschallenge.org/challenges/volcanoes-icebergs-and-asteroids-oh-my/real-time-fire-app/teams/mother-bear/project
 
