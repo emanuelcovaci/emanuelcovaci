@@ -24,9 +24,13 @@ Got more questions?
 Please email me!
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcovaci&theme=synthwave&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcovaci&theme=buefy&count_private=true&layout=compact)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=emanuelcovaci)
 
 
-![Emanuel Covaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelcovaci&&theme=synthwave&count_private=true)
+![Emanuel Covaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelcovaci&&theme=buefy&count_private=true)
+# Detecting Fake Accounts on Social Media  (My bachelor thesis)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanuelcovaci&repo=twittop)](https://github.com/emanuelcovaci/twittop)
+
