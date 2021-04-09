@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+<!--
 Q: How come your activity is so low on github? 
 
 A: Lately I work with more closed-source software.
@@ -22,7 +22,7 @@ A: Lately I work with more closed-source software.
 Got more questions?
 
 Please email me!
-
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcovaci&theme=buefy&count_private=true&layout=compact)
 
@@ -33,4 +33,11 @@ Please email me!
 # Detecting Fake Accounts on Social Media  (My bachelor thesis)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emanuelcovaci&repo=twittop)](https://github.com/emanuelcovaci/twittop)
+
+# NASA International Space Apps Challenge
+
+## Local People's Choice Winner and Nominations for Global Awards 2018
+[NASA-Challange-Mother-Bear] (https://github.com/NASA-Challange-Mother-Bear/)
+
+https://2018.spaceappschallenge.org/challenges/volcanoes-icebergs-and-asteroids-oh-my/real-time-fire-app/teams/mother-bear/project
 
