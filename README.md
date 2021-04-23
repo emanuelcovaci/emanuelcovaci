@@ -44,6 +44,8 @@ https://2018.spaceappschallenge.org/challenges/volcanoes-icebergs-and-asteroids-
 # :school: County Scholar Inspectorate Timiș
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lagercat&repo=WebsiteISJ)](https://github.com/lagercat/WebsiteISJ)
 
+https://www.digi24.ro/regional/programatori-inca-din-liceu-864455?fbclid=IwAR1H37mK8OLwGyNb7zDYemmeH7Pm9lNbpc3wQk9b3DQeNGShbJWjYFqeRzo
+
 
 # :mag_right: Spartan Tasks -- hire someone to carry out tasks for you
 
