@@ -40,3 +40,8 @@ NASA-Challange-Mother-Bear (https://github.com/NASA-Challange-Mother-Bear/)
 
 https://2018.spaceappschallenge.org/challenges/volcanoes-icebergs-and-asteroids-oh-my/real-time-fire-app/teams/mother-bear/project
 
+# :school: County Scholar Inspectorate Timiș
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lagercat&repo=WebsiteISJ)](https://github.com/lagercat/WebsiteISJ)
+
+
+
