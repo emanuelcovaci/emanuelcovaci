@@ -47,6 +47,8 @@ CYS BURGER Team  http://zerorobotics.mit.edu/tournaments/24/rank/71/0/
 
 https://www.digi24.ro/stiri/actualitate/educatie/elevi-romani-premiati-de-nasa-si-mit-659653?fbclid=IwAR0GrzSohIRfmoBh4Q6hFvsutIvgFrvG-y5h_3K7yH5u8E6cGsQGTGRwETg
 
+# :cop: Member of jury - National Contest of IT&C Projects - InfoEducatie 2018
+https://infoeducatie.ro/home
 
 # :school: County Scholar Inspectorate Timiș
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lagercat&repo=WebsiteISJ)](https://github.com/lagercat/WebsiteISJ)
