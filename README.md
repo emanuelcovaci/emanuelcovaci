@@ -44,4 +44,10 @@ https://2018.spaceappschallenge.org/challenges/volcanoes-icebergs-and-asteroids-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lagercat&repo=WebsiteISJ)](https://github.com/lagercat/WebsiteISJ)
 
 
+# :mag_right: Spartan Tasks -- hire someone to carry out tasks for you
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zalmanu&repo=project-spartan)](https://github.com/zalmanu/project-spartan)
+
+
+
 
