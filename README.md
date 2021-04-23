@@ -58,6 +58,8 @@ https://www.digi24.ro/regional/programatori-inca-din-liceu-864455?fbclid=IwAR1H3
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zalmanu&repo=project-spartan)](https://github.com/zalmanu/project-spartan)
 
+https://www.digi24.ro/regional/digi24-timisoara/licitatii-cu-spartani-548666?fbclid=IwAR0UxJQxg51MEcyTPSSCCH2kg0jiIaKVtwGQsfmN6xDn3LlexaqNJmqsU_0
+
 
 
 
