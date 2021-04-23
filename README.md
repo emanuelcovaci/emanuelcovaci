@@ -39,6 +39,12 @@ Please email me!
 ## Local People's Choice Winner and Nominations for Global Awards 2018
 NASA-Challange-Mother-Bear (https://github.com/NASA-Challange-Mother-Bear/)
 
+# :milky_way: Zero Robotics High School Tournament powered by NASA, ESA, MIT, DARPA
+CYS BURGER Team  http://zerorobotics.mit.edu/tournaments/24/rank/71/0/
+
+https://www.digi24.ro/stiri/actualitate/educatie/elevi-romani-premiati-de-nasa-si-mit-659653?fbclid=IwAR0GrzSohIRfmoBh4Q6hFvsutIvgFrvG-y5h_3K7yH5u8E6cGsQGTGRwETg
+
+
 https://2018.spaceappschallenge.org/challenges/volcanoes-icebergs-and-asteroids-oh-my/real-time-fire-app/teams/mother-bear/project
 
 # :school: County Scholar Inspectorate Timiș
